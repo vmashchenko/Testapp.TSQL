@@ -1,4 +1,4 @@
-[The detailed information of the code usage with screenshots see in Info.docs]
+[The detailed information of the code usage with screenshots see in Info.docx]
 
 In database exist table Provider where we can change provider settings or add new provider for all files in some folder
 Shemas for each provider stored at own xml file, which can be modified at any moment. 
